@@ -1,4 +1,5 @@
-#Created by Marcus Hanikat
+#Author: Marcus Hanikat (hanikat@kth.se)
+#Tested on Windows server 2016 with scheduled Active Directory Syncrhonization client
 #Inspiration: https://siliconwolf.net/aad-connect-admin-check-sync-time-and-errors/
 
 #Lines to be added in NSClient++-configuration:
