@@ -1,5 +1,8 @@
 #!/bin/python
 
+#Author: Marcus Hanikat (hanikat@kth.se)
+#Tested with Nagios 4.4.5 on Ubuntu
+
 #Arguments:
 #1: $SERVICESTATE$
 #2: $SERVICESTATETYPE$
